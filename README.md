@@ -40,11 +40,8 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
 
 ### 2. Amazon Prime
 * **What it shows:** High-level KPIs with total titles, genre concentration, age rating mix, release trends, and country availability.
-
 * **Key metrics:** Total count of titles (9,668), total genres (31), movies (7,814), TV shows (1,854).
-
 * **Visuals:** KPI cards, bar charts for genres and age ratings, yearly release trends by type, donut chart for mean duration split (movies vs. TV shows), and global map of availability.
-
 * **Insights:** Prime Video boasts the **largest catalog size** across platforms, with drama and comedy leading in volume. Balanced mix of movies and TV shows, with a strong surge in content since 2015. Wide geographic reach underlines its global-first strategy.
 
 ![Sales Deep Dive](Previews/SalesDeepDive.PNG)
