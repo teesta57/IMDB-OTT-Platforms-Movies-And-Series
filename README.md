@@ -19,31 +19,33 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
 
 ## 🚀 Key Features
 
-* **Interactive Visuals** — Clickable charts, slicers, and tooltips for intuitive data exploration across campaigns, customers, and products.
-* **Key Performance Indicators (KPIs)** — At-a-glance metrics including total sales, total profit, average order value, and customer count.
-* **Segmented Analysis** — Dynamic filtering by country, channel, campaign, category, age group, and purchase behavior.
-* **Actionable Insights** — Each page highlights business trends, sales drivers, inventory gaps, and campaign effectiveness to guide retail strategy.
+* **Interactive Visuals** — Clickable charts, slicers, and tooltips for seamless exploration across platforms, genres, ratings, and release years.
+* **Key Performance Indicators (KPIs)** — At-a-glance metrics including total movies, average IMDb rating, platform-wise movie count, and genre popularity.
+* **Segmented Analysis** — Dynamic filtering by OTT platform (Netflix, Amazon Prime, Disney+, Hotstar), genre, release year, and IMDb score range.
+* **Actionable Insights** — Each page highlights platform strengths, top genres, rating distributions, and content availability to guide strategic OTT content decisions.
 
 ---
 
 ## 📈 Dashboard Pages
 
-### 1. Executive Overview
-
-* **What it shows:** High-level KPIs with sales and profit trends, campaign revenue by date, and channel performance.
-* **Key metrics:** Total sales, total profit, average order value, customer count.
-* **Visuals:** KPI cards, trend lines, campaign revenue charts, pie chart by channel, map by country.
-* **Insights:** Summarizes business performance across time, channels, and geography for fast decision-making.
+### 1. Netflix
+* **What it shows:** High-level KPIs with total titles, genre diversity, user ratings, age rating distribution, release trends, and global availability.
+* **Key metrics:** Total count of titles (5,331), total genres (42), average user rating (64.66), count of movies (5,184), and TV shows (147).
+* **Visuals:** KPI cards, bar charts for age ratings and genres, line chart of yearly releases, map by country, and scatter plot of duration vs. user rating.
+* **Insights:** Summarizes Netflix’s vast catalog, dominance in dramas and international movies, maturity in TV-MA and TV-14 content, and global reach with steadily rising releases post-2010.
 
 ![Executive Overview](Previews/ExecutiveOverview.PNG)
 
 ---
 
-### 2. Sales Deep Dive
-* **What it shows:** Campaign performance by sales and profit, discount type impact by channel, and campaign sales over time.
-* **Key metrics:** Campaign-wise total sales and profit.
-* **Visuals:** Clustered bar charts, stacked bar (discount type), trend line over time, horizontal stacked bar for duration.
-* **Insights:** Highlights top-performing campaigns and shows how discount types affect different channels.
+### 2. Amazon Prime
+* **What it shows:** High-level KPIs with total titles, genre concentration, age rating mix, release trends, and country availability.
+
+* **Key metrics:** Total count of titles (9,668), total genres (31), movies (7,814), TV shows (1,854).
+
+* **Visuals:** KPI cards, bar charts for genres and age ratings, yearly release trends by type, donut chart for mean duration split (movies vs. TV shows), and global map of availability.
+
+* **Insights:** Prime Video boasts the **largest catalog size** across platforms, with drama and comedy leading in volume. Balanced mix of movies and TV shows, with a strong surge in content since 2015. Wide geographic reach underlines its global-first strategy.
 
 ![Sales Deep Dive](Previews/SalesDeepDive.PNG)
 
