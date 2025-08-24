@@ -104,8 +104,9 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
     ├── AmazonPrime.PNG
     ├── Apple.PNG
     ├── Bollywood.PNG
-    ├── Hollywood.PNG
-    └── Hotstar.PNG
+    ├── Hollywood.PNG 
+    ├── Hotstar.PNG
+    └── Netflix.PNG
 ```
 
 ---
