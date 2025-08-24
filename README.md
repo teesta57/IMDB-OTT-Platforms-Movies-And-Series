@@ -92,15 +92,15 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
 
 ```
 .
-├── ECommerce-European-Fashion-Retail.pbix                (Power BI report file)
-├── Amazon-Prime-Titles.csv          (Raw dataset)
-├── Apple.csv                        (Raw dataset)
-├── Final-Bollywood.csv              (Raw dataset)
-├── Final-Hollywood.csv              (Raw dataset)
-├── Hotstar.csv                      (Raw dataset)
-├── Netflix.csv                      (Raw dataset)
-├── README.md                        (Project documentation)
-└── Previews/                        (Dashboard screenshot images)
+├── IMDB-OTT-Platforms-Movies-And-Series.pbix                (Power BI report file)
+├── Amazon-Prime-Titles.csv                    (Raw dataset)
+├── Apple.csv                                  (Raw dataset)
+├── Final-Bollywood.csv                        (Raw dataset)
+├── Final-Hollywood.csv                        (Raw dataset)
+├── Hotstar.csv                                (Raw dataset)
+├── Netflix.csv                                (Raw dataset)
+├── README.md                                  (Project documentation)
+└── Previews/                                  (Dashboard screenshot images)
     ├── AmazonPrime.PNG
     ├── Apple.PNG
     ├── Bollywood.PNG
