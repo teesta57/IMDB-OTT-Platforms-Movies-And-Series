@@ -1,18 +1,24 @@
-# IMDB-OTT-Platforms-Movies-And-Series
+# IMDB-OTT-Platforms-Movies-And-Series-Dashboard
 
-This project provides a Power BI dashboard analyzing movies and TV shows across multiple platforms (Hollywood, Bollywood, Netflix, Amazon Prime, Disney+ Hotstar, Apple TV). It highlights revenue, genres, user ratings, budgets, release trends, and more with interactive visuals.
+This project provides a Power BI dashboard analyzing movies and TV shows across multiple platforms (Netflix, Amazon Prime,  Apple TV, Disney+Hotstar, Bollywood, Hollywood). It highlights revenue, genres, user ratings, budgets, release trends, and more with interactive visuals.
 
 ---
 
 ## 📊 Dashboard Overview
 
-The dashboard provides a comprehensive and interactive analysis of key retail business metrics. It helps uncover:
+The dashboard provides a comprehensive and interactive analysis of movie availability and performance across OTT platforms. It helps uncover:
 
-* **Total Sales & Profitability** — Overview of total sales, profit, customer count, and average order value.
-* **Campaign Performance** — Insights into revenue, profit, duration, and trends across different marketing campaigns.
-* **Sales by Channel & Category** — Comparative analysis of performance across E-commerce and App Mobile channels, and across product categories like Shoes, Pants, Dresses, etc.
-* **Product & Inventory Insights** — Analysis of stock quantity vs. sales, profit margins, and inventory levels by product and region.
-* **Customer Segmentation** — Breakdown of customer activity, age distribution, signup trends, and purchase frequency.
+* **Movie Distribution Across Platforms** — Overview of total movies, unique vs. overlapping titles, and availability trends across Netflix, Amazon Prime, Hotstar, Apple TV, and Bollywood OTT.
+
+* **Genre Insights** — Analysis of top genres by platform, highlighting diversity in content such as Action, Comedy, Romance, Thriller, Suspense, and Kids.
+
+* **Language & Regional Spread** — Breakdown of movies by language and region, offering insights into audience reach and platform-specific strengths.
+
+* **Platform Comparison** — Comparative view of platforms in terms of content volume, variety, and exclusivity.
+
+* **Movie Ratings & Popularity** — Insights into IMDb ratings, audience preferences, and platform-wise rating trends to identify where quality content resides.
+
+* **Overlap & Exclusivity** — Visualizations of shared titles vs. exclusive content, helping identify competitive advantages across platforms.
 
 ---
 
