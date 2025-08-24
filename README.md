@@ -93,12 +93,12 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
 ```
 .
 ├── ECommerce-European-Fashion-Retail.pbix                (Power BI report file)
-├── Amazon-Prime-Titles.csv                     (Raw dataset)
-├── Apple.csv                                   (Raw dataset)
-├── Final-Bollywood.csv                         (Raw dataset)
-├── Final-Hollywood.csv                         (Raw dataset)
-├── Hotstar.csv                                 (Raw dataset)
-├── Netflix.csv                                 (Raw dataset)
+├── Amazon-Prime-Titles.csv          (Raw dataset)
+├── Apple.csv                        (Raw dataset)
+├── Final-Bollywood.csv              (Raw dataset)
+├── Final-Hollywood.csv              (Raw dataset)
+├── Hotstar.csv                      (Raw dataset)
+├── Netflix.csv                      (Raw dataset)
 ├── README.md                        (Project documentation)
 └── Previews/                        (Dashboard screenshot images)
     ├── AmazonPrime.PNG
@@ -129,9 +129,9 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/teesta57/Multitable-ECommerce-European-Fashion.git
+   git clone https://github.com/teesta57/IMDB-OTT-Platforms-Movies-And-Series.git
    ```
-2. Open the `ECommerce-European-Fashion-Retail.pbix` file in Power BI Desktop.
+2. Open the `IMDB-OTT-Platforms-Movies-And-Series.pbix` file in Power BI Desktop.
 3. Explore the dashboard and apply filters to interact with the data.
 
 ---
