@@ -29,50 +29,60 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
 ## 📈 Dashboard Pages
 
 ### 1. Netflix
-* **What it shows:** High-level KPIs with total titles, genre diversity, user ratings, age rating distribution, release trends, and global availability.
-* **Key metrics:** Total count of titles (5,331), total genres (42), average user rating (64.66), count of movies (5,184), and TV shows (147).
-* **Visuals:** KPI cards, bar charts for age ratings and genres, line chart of yearly releases, map by country, and scatter plot of duration vs. user rating.
-* **Insights:** Summarizes Netflix’s vast catalog, dominance in dramas and international movies, maturity in TV-MA and TV-14 content, and global reach with steadily rising releases post-2010.
+* **What it shows:** High-level KPIs with total titles, genres, user ratings, release trends, and global distribution.
+* **Key metrics:** Total titles (5,331), genres (42), average rating (64.66), movies (5,184), TV shows (147).
+* **Visuals:** KPI cards, bar chart for age ratings, line chart of yearly releases (movies vs shows), world map of availability, bar chart of titles by genre, scatter plot of duration vs rating.
+* **Insights:** Netflix has a large movie-focused library (97% movies, 3% shows). Age ratings are skewed toward mature audiences (TV-MA & TV-14 dominate). Releases grew sharply after 2010, peaking around 2018–2020. Genres are led by International movies (2.4K), Drama (2.3K), and Comedy (1.6K), showing its global-first content strategy. Global coverage is extensive, reflecting Netflix’s international penetration.
 
 ![Executive Overview](Previews/ExecutiveOverview.PNG)
 
 ---
 
 ### 2. Amazon Prime
-* **What it shows:** High-level KPIs with total titles, genre concentration, age rating mix, release trends, and country availability.
-* **Key metrics:** Total count of titles (9,668), total genres (31), movies (7,814), TV shows (1,854).
-* **Visuals:** KPI cards, bar charts for genres and age ratings, yearly release trends by type, donut chart for mean duration split (movies vs. TV shows), and global map of availability.
-* **Insights:** Prime Video boasts the **largest catalog size** across platforms, with drama and comedy leading in volume. Balanced mix of movies and TV shows, with a strong surge in content since 2015. Wide geographic reach underlines its global-first strategy.
-
+* **What it shows:** High-level KPIs with total titles, genres, content split (movies vs shows), age ratings, yearly release trends, and global distribution.
+* **Key metrics:** Total titles (9,668), total genres (31), movies (7,814), TV shows (1,854).
+* **Visuals:** KPI cards, bar chart for titles by genre, bar chart for age ratings, donut chart for type split (movies vs shows), yearly release trend (movies vs TV shows), world map of availability.
+* **Insights:** Prime Video has a broader library than Netflix, with ~81% movies and ~19% TV shows. Genre mix is led by Drama (3.7K), Comedy (2.1K), and Action (1.7K). Audience coverage spans across multiple age ratings with stronger representation in family-friendly categories compared to Netflix. Content growth accelerated post-2010, with a sharp rise after 2015. Prime Video has wide global reach, strongly present across North America, Europe, and Asia.
+  
 ![Sales Deep Dive](Previews/SalesDeepDive.PNG)
 
 ---
 
-### 3. Product & Inventory Analytics
-* **What it shows:** Sales and stock quantity by product, category profit margins, and stock by country.
-* **Key metrics:** Stock quantity, total sales, profit margin by category.
-* **Visuals:** Pie chart, stacked bars, combo charts (sales vs stock), colored matrix, scatter plot.
-* **Insights:** Identifies best-selling products, low-stock items, and high-margin categories to optimize inventory.
+### 3. Apple TV
+* **What it shows:** High-level KPIs with total titles, genre mix, age rating distribution, release trends, average ratings, and country availability.
+* **Key metrics:** Total titles (170), total genres (19), movies (62), TV shows (108), mean IMDb rating (7.13), mean TMDB rating (7.19).
+* **Visuals:** KPI cards, bar charts for genres and age ratings, yearly release trend (movies vs. TV shows), scatter plot for IMDb vs. TMDB scores, top-rated titles, and global map.
+* **Insights:** Apple TV+ has a compact but quality-focused catalog, with drama and comedy dominating. TV shows outnumber movies, reflecting an episodic-first strategy. Strong average ratings (~7.1–7.2) show positive reception. Content surged after 2019, with TV-MA leading age ratings. Global availability supports Apple’s premium positioning.
 
 ![Product & Inventory Analytics](Previews/Product&InventoryAnalytics.PNG)
 
 ---
 
-### 4. Campaign & Channel Performance
-* **What it shows:** Profit and sales by campaign, duration analysis across channels, and sales trends by campaign name.
-* **Key metrics:** Campaign profit, sales, and duration percentages.
-* **Visuals:** Bar charts, line chart, stacked duration bars.
-* **Insights:** Evaluates campaign effectiveness and compares which channels contributed most to campaign success.
+### 4. Disney+Hotstar
+* **What it shows:** High-level KPIs with total titles, genre distribution, age rating mix, release trends, type split (movies vs TV shows), and duration by genre.
+* **Key metrics:** Total titles (6,873), total genres (37), movies (4,567), TV shows (2,306).
+* **Visuals:** KPI cards, bar charts for genre counts and age ratings, pie chart for type split, line chart for mean duration by genre, yearly release trends by type.
+* **Insights:** Hotstar has a large and diverse catalog, with drama (2,043 titles) and comedy (791) dominating. Movies account for ~66% of content, but TV shows are also strong. Age ratings skew toward U/A 13+ and general audiences, showing wide family appeal. Release volume has surged significantly since 2015, highlighting expansion. Genres like sports and action feature the longest average durations.
 
 ![Campaign & Channel Performance](Previews/Campaign&ChannelPerformance.PNG)
 
 ---
 
-### 5. Customer Insights & Segmentation
-* **What it shows:** Active vs inactive customer distribution, sign-up trends, purchase frequency, and customer age demographics.
-* **Key metrics:** Active customer %, customer count by age, purchase frequency.
-* **Visuals:** Pie chart, line chart (signup trend), histograms, bar charts.
-* **Insights:** Highlights key customer segments, retention patterns, and areas for loyalty improvement.
+### 5. Bollywood Insights
+* **What it shows:** High-level KPIs with total movies, genre-wise revenue, budget vs revenue balance, yearly title output, and geographic focus.
+* **Key metrics:** Total movies (1,321), total genres (243), top revenue genres (Comedy $351M, Drama $331M, Thriller $160M).
+* **Visuals:** KPI cards, bar chart for revenue by genre, country map (India focus), stacked bars for top 10 movies (budget vs revenue), trend line for yearly title count and user ratings.
+* **Insights:** Bollywood’s catalog shows strong revenue concentration in Comedy and Drama, with other genres like Thriller and Action also contributing significantly. Top-grossing films balance revenue and budget efficiently (e.g., Golmaal Again, Jia Aur Jia). Production peaked around 2015 with over 140 titles, before tapering slightly. India remains the core market, emphasizing Bollywood’s regional dominance with growing global recognition.
+
+![Campaign & Channel Performance](Previews/Campaign&ChannelPerformance.PNG)
+
+---
+
+### 5. Hollywood Insights
+* **What it shows:** High-level KPIs with total movies, revenue trends by genre, top-grossing films vs budgets, yearly production trends, and global reach.
+* **Key metrics:** Total movies (10,178), total genres (2,304), top revenue genres (Drama $13,876M, Documentary $7,677M, Comedy $7,657M).
+* **Visuals:** KPI cards, bar chart for revenue by genre, stacked bars for top 10 movies (budget vs revenue), line chart for yearly title count & ratings, world map for global distribution.
+* **Insights:** Hollywood dominates with the largest catalog and highest-grossing titles globally. Blockbusters like Titanic, Avatar, and Avengers: Endgame deliver 85–93% of revenue-to-budget efficiency. Genre revenue is led by Drama, Comedy, and Documentaries, with consistent growth over decades. Title releases surged sharply post-2000, peaking around 2020 with nearly 1,000 films, underlining Hollywood’s scale and global impact.
 
 ![Customer Insights & Segmentation](Previews/CustomerInsights&Segmentation.PNG)
 
