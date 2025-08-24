@@ -93,20 +93,19 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
 ```
 .
 ├── ECommerce-European-Fashion-Retail.pbix                (Power BI report file)
-├── European-Fashion-Store-Campaigns.csv        (Raw dataset)
-├── European-Fashion-Store-Channels.csv         (Raw dataset)
-├── European-Fashion-Store-Customers.csv        (Raw dataset)
-├── European-Fashion-Store-Products.csv         (Raw dataset)
-├── European-Fashion-Store-Sales.csv            (Raw dataset)
-├── European-Fashion-Store-Salesitems.csv       (Raw dataset)
-├── European-Fashion-Store-Stock.csv            (Raw dataset)
+├── Amazon-Prime-Titles.csv                     (Raw dataset)
+├── Apple.csv                                   (Raw dataset)
+├── Final-Bollywood.csv                         (Raw dataset)
+├── Final-Hollywood.csv                         (Raw dataset)
+├── Hotstar.csv                                 (Raw dataset)
+├── Netflix.csv                                 (Raw dataset)
 ├── README.md                        (Project documentation)
 └── Previews/                        (Dashboard screenshot images)
-    ├── ExecutiveOverview.PNG
-    ├── SalesDeepDive.PNG
-    ├── Product&InventoryAnalytics.PNG
-    ├── Campaign&ChannelPerformance.PNG)
-    └── CustomerInsights&Segmentation.PNG
+    ├── AmazonPrime.PNG
+    ├── Apple.PNG
+    ├── Bollywood.PNG
+    ├── Hollywood.PNG
+    └── Hotstar.PNG
 ```
 
 ---
@@ -119,9 +118,9 @@ The dashboard provides a comprehensive and interactive analysis of movie availab
 
 ## 📊 Data Source
 
-* **Dataset Name:** Multitable Ecommerce European Fashion
+* **Dataset Name:** IMDB + OTT platforms movies Dashboard and Dataset
 * **Source:** Kaggle
-* **Link:** [[https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset](https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset)
+* **Link:** [https://www.kaggle.com/datasets/yashmotiani/imdb-ott-platforms-movies-power-bi-dashboard](https://www.kaggle.com/datasets/yashmotiani/imdb-ott-platforms-movies-power-bi-dashboard)
 
 ---
 
