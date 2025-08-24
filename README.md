@@ -9,15 +9,10 @@ This project provides a Power BI dashboard analyzing movies and TV shows across 
 The dashboard provides a comprehensive and interactive analysis of movie availability and performance across OTT platforms. It helps uncover:
 
 * **Movie Distribution Across Platforms** — Overview of total movies, unique vs. overlapping titles, and availability trends across Netflix, Amazon Prime, Hotstar, Apple TV, and Bollywood OTT.
-
 * **Genre Insights** — Analysis of top genres by platform, highlighting diversity in content such as Action, Comedy, Romance, Thriller, Suspense, and Kids.
-
 * **Language & Regional Spread** — Breakdown of movies by language and region, offering insights into audience reach and platform-specific strengths.
-
 * **Platform Comparison** — Comparative view of platforms in terms of content volume, variety, and exclusivity.
-
 * **Movie Ratings & Popularity** — Insights into IMDb ratings, audience preferences, and platform-wise rating trends to identify where quality content resides.
-
 * **Overlap & Exclusivity** — Visualizations of shared titles vs. exclusive content, helping identify competitive advantages across platforms.
 
 ---
